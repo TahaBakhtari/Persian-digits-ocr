@@ -66,7 +66,3 @@ A pre-trained model is included in the `models/` directory. You can load and use
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This version now emphasizes that the project is for Persian digits, mentions the available dataset, and provides details on using the pre-trained model. Let me know if anything else needs to be adjusted!

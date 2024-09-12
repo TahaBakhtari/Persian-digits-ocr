@@ -1,6 +1,7 @@
 
 # Persian-Digits-OCR
-### (Handwrite)
+### (Handwrite) 
+neural network "DeepLearning"
 
 This project focuses on recognizing Persian digits using a deep learning-based Optical Character Recognition (OCR) system. The model has been trained on a custom dataset of Persian digits, and the pre-trained model is available for immediate use.
 
